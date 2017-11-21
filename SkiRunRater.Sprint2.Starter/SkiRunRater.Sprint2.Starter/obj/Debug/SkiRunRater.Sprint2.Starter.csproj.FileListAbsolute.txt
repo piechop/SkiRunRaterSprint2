@@ -1,0 +1,39 @@
+C:\Users\velisj\Git\NMC\CIT255\Demo_SkiRunRater\SkiRunRater.Sprint2.Starter\bin\Debug\SkiRunRater.Sprint2.Starter.exe.config
+C:\Users\velisj\Git\NMC\CIT255\Demo_SkiRunRater\SkiRunRater.Sprint2.Starter\bin\Debug\SkiRunRater.Sprint2.Starter.exe
+C:\Users\velisj\Git\NMC\CIT255\Demo_SkiRunRater\SkiRunRater.Sprint2.Starter\bin\Debug\SkiRunRater.Sprint2.Starter.pdb
+C:\Users\velisj\Git\NMC\CIT255\Demo_SkiRunRater\SkiRunRater.Sprint2.Starter\obj\Debug\SkiRunRater.Sprint2.Starter.csprojResolveAssemblyReference.cache
+C:\Users\velisj\Git\NMC\CIT255\Demo_SkiRunRater\SkiRunRater.Sprint2.Starter\obj\Debug\SkiRunRater.Sprint2.Starter.exe
+C:\Users\velisj\Git\NMC\CIT255\Demo_SkiRunRater\SkiRunRater.Sprint2.Starter\obj\Debug\SkiRunRater.Sprint2.Starter.pdb
+C:\Users\velisj\Git\NMC\CIT255\Demo_SkiRunRater\SkiRunRater.Sprint2.Starter\bin\Debug\Data\Data.csv
+C:\Users\velisj\Git\NMC\CIT255\Demo_SkiRunRater\SkiRunRater.Sprint2.Starter\bin\Debug\Newtonsoft.Json.dll
+C:\Users\velisj\Git\NMC\CIT255\Demo_SkiRunRater\SkiRunRater.Sprint2.Starter\bin\Debug\Newtonsoft.Json.xml
+C:\Users\velisj\Git\NMC\CIT255\Demo_SkiRunRater\SkiRunRater.Sprint2.Starter\obj\Debug\SkiRunRater.Sprint2.Starter.csproj.CoreCompileInputs.cache
+C:\Users\velisj\Google Drive\NMC\Courses\CIT255\CIT255 - Activities\Coding Activity - Ski Run Rater\S2\Demo_SkiRunRater\SkiRunRater.Sprint2.Starter\bin\Debug\Data\Data.csv
+C:\Users\velisj\Google Drive\NMC\Courses\CIT255\CIT255 - Activities\Coding Activity - Ski Run Rater\S2\Demo_SkiRunRater\SkiRunRater.Sprint2.Starter\bin\Debug\SkiRunRater.Sprint2.Starter.exe.config
+C:\Users\velisj\Google Drive\NMC\Courses\CIT255\CIT255 - Activities\Coding Activity - Ski Run Rater\S2\Demo_SkiRunRater\SkiRunRater.Sprint2.Starter\bin\Debug\SkiRunRater.Sprint2.Starter.exe
+C:\Users\velisj\Google Drive\NMC\Courses\CIT255\CIT255 - Activities\Coding Activity - Ski Run Rater\S2\Demo_SkiRunRater\SkiRunRater.Sprint2.Starter\bin\Debug\SkiRunRater.Sprint2.Starter.pdb
+C:\Users\velisj\Google Drive\NMC\Courses\CIT255\CIT255 - Activities\Coding Activity - Ski Run Rater\S2\Demo_SkiRunRater\SkiRunRater.Sprint2.Starter\bin\Debug\Newtonsoft.Json.dll
+C:\Users\velisj\Google Drive\NMC\Courses\CIT255\CIT255 - Activities\Coding Activity - Ski Run Rater\S2\Demo_SkiRunRater\SkiRunRater.Sprint2.Starter\bin\Debug\Newtonsoft.Json.xml
+C:\Users\velisj\Google Drive\NMC\Courses\CIT255\CIT255 - Activities\Coding Activity - Ski Run Rater\S2\Demo_SkiRunRater\SkiRunRater.Sprint2.Starter\obj\Debug\SkiRunRater.Sprint2.Starter.csprojResolveAssemblyReference.cache
+C:\Users\velisj\Google Drive\NMC\Courses\CIT255\CIT255 - Activities\Coding Activity - Ski Run Rater\S2\Demo_SkiRunRater\SkiRunRater.Sprint2.Starter\obj\Debug\SkiRunRater.Sprint2.Starter.csproj.CoreCompileInputs.cache
+C:\Users\velisj\Google Drive\NMC\Courses\CIT255\CIT255 - Activities\Coding Activity - Ski Run Rater\S2\Demo_SkiRunRater\SkiRunRater.Sprint2.Starter\obj\Debug\SkiRunRater.Sprint2.Starter.exe
+C:\Users\velisj\Google Drive\NMC\Courses\CIT255\CIT255 - Activities\Coding Activity - Ski Run Rater\S2\Demo_SkiRunRater\SkiRunRater.Sprint2.Starter\obj\Debug\SkiRunRater.Sprint2.Starter.pdb
+C:\Users\piechop\Desktop\SkiRunRater.Sprint2.Starter\SkiRunRater.Sprint2.Starter\SkiRunRater.Sprint2.Starter\bin\Debug\Data\Data.csv
+C:\Users\piechop\Desktop\SkiRunRater.Sprint2.Starter\SkiRunRater.Sprint2.Starter\SkiRunRater.Sprint2.Starter\bin\Debug\SkiRunRater.Sprint2.Starter.exe.config
+C:\Users\piechop\Desktop\SkiRunRater.Sprint2.Starter\SkiRunRater.Sprint2.Starter\SkiRunRater.Sprint2.Starter\bin\Debug\SkiRunRater.Sprint2.Starter.exe
+C:\Users\piechop\Desktop\SkiRunRater.Sprint2.Starter\SkiRunRater.Sprint2.Starter\SkiRunRater.Sprint2.Starter\bin\Debug\SkiRunRater.Sprint2.Starter.pdb
+C:\Users\piechop\Desktop\SkiRunRater.Sprint2.Starter\SkiRunRater.Sprint2.Starter\SkiRunRater.Sprint2.Starter\bin\Debug\Newtonsoft.Json.dll
+C:\Users\piechop\Desktop\SkiRunRater.Sprint2.Starter\SkiRunRater.Sprint2.Starter\SkiRunRater.Sprint2.Starter\bin\Debug\Newtonsoft.Json.xml
+C:\Users\piechop\Desktop\SkiRunRater.Sprint2.Starter\SkiRunRater.Sprint2.Starter\SkiRunRater.Sprint2.Starter\obj\Debug\SkiRunRater.Sprint2.Starter.csprojResolveAssemblyReference.cache
+C:\Users\piechop\Desktop\SkiRunRater.Sprint2.Starter\SkiRunRater.Sprint2.Starter\SkiRunRater.Sprint2.Starter\obj\Debug\SkiRunRater.Sprint2.Starter.csproj.CoreCompileInputs.cache
+C:\Users\piechop\Desktop\SkiRunRater.Sprint2.Starter\SkiRunRater.Sprint2.Starter\SkiRunRater.Sprint2.Starter\obj\Debug\SkiRunRater.Sprint2.Starter.exe
+C:\Users\piechop\Desktop\SkiRunRater.Sprint2.Starter\SkiRunRater.Sprint2.Starter\SkiRunRater.Sprint2.Starter\obj\Debug\SkiRunRater.Sprint2.Starter.pdb
+C:\Users\Paul Jr\Documents\Paul\Classes\CIT255\SkiRunRater.Sprint2.Starter\SkiRunRater.Sprint2.Starter\SkiRunRater.Sprint2.Starter\obj\Debug\SkiRunRater.Sprint2.Starter.csprojResolveAssemblyReference.cache
+C:\Users\Paul Jr\Documents\Paul\Classes\CIT255\SkiRunRater.Sprint2.Starter\SkiRunRater.Sprint2.Starter\SkiRunRater.Sprint2.Starter\obj\Debug\SkiRunRater.Sprint2.Starter.exe
+C:\Users\Paul Jr\Documents\Paul\Classes\CIT255\SkiRunRater.Sprint2.Starter\SkiRunRater.Sprint2.Starter\SkiRunRater.Sprint2.Starter\obj\Debug\SkiRunRater.Sprint2.Starter.pdb
+C:\Users\Paul Jr\Documents\Paul\Classes\CIT255\SkiRunRater.Sprint2.Starter\SkiRunRater.Sprint2.Starter\SkiRunRater.Sprint2.Starter\bin\Debug\Data\Data.csv
+C:\Users\Paul Jr\Documents\Paul\Classes\CIT255\SkiRunRater.Sprint2.Starter\SkiRunRater.Sprint2.Starter\SkiRunRater.Sprint2.Starter\bin\Debug\SkiRunRater.Sprint2.Starter.exe.config
+C:\Users\Paul Jr\Documents\Paul\Classes\CIT255\SkiRunRater.Sprint2.Starter\SkiRunRater.Sprint2.Starter\SkiRunRater.Sprint2.Starter\bin\Debug\SkiRunRater.Sprint2.Starter.exe
+C:\Users\Paul Jr\Documents\Paul\Classes\CIT255\SkiRunRater.Sprint2.Starter\SkiRunRater.Sprint2.Starter\SkiRunRater.Sprint2.Starter\bin\Debug\SkiRunRater.Sprint2.Starter.pdb
+C:\Users\Paul Jr\Documents\Paul\Classes\CIT255\SkiRunRater.Sprint2.Starter\SkiRunRater.Sprint2.Starter\SkiRunRater.Sprint2.Starter\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Paul Jr\Documents\Paul\Classes\CIT255\SkiRunRater.Sprint2.Starter\SkiRunRater.Sprint2.Starter\SkiRunRater.Sprint2.Starter\bin\Debug\Newtonsoft.Json.xml

@@ -1,0 +1,22 @@
+[
+  {
+    "ID": 1,
+    "Name": "Buck",
+    "Vertical": 200
+  },
+  {
+    "ID": 2,
+    "Name": "Buckaroo",
+    "Vertical": 325
+  },
+  {
+    "ID": 3,
+    "Name": "Hoot Owl",
+    "Vertical": 655
+  },
+  {
+    "ID": 4,
+    "Name": "Shelburg's Chute",
+    "Vertical": 1023
+  }
+]

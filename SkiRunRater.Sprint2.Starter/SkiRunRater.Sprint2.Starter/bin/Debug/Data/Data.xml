@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<SkiRuns xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SkiRun>
+    <ID>1</ID>
+    <Name>Buck</Name>
+    <Vertical>200</Vertical>
+  </SkiRun>
+  <SkiRun>
+    <ID>2</ID>
+    <Name>Buckaroo</Name>
+    <Vertical>325</Vertical>
+  </SkiRun>
+  <SkiRun>
+    <ID>3</ID>
+    <Name>Hoot Owl</Name>
+    <Vertical>655</Vertical>
+  </SkiRun>
+  <SkiRun>
+    <ID>4</ID>
+    <Name>Shelburg's Chute</Name>
+    <Vertical>1023</Vertical>
+  </SkiRun>
+</SkiRuns>

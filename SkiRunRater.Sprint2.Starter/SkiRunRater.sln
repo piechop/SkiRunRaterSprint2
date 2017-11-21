@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.8
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SkiRunRater.Sprint2.Starter", "SkiRunRater.Sprint2.Starter\SkiRunRater.Sprint2.Starter.csproj", "{3A0B5BF1-B3B2-44D7-B699-48BE4D9D3D2F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Documentation", "Documentation", "{A5BEE8C3-BC8D-414B-8C0C-149F6F716F36}"
+	ProjectSection(SolutionItems) = preProject
+		SkiRunRater.Documentation\Documentation.txt = SkiRunRater.Documentation\Documentation.txt
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3A0B5BF1-B3B2-44D7-B699-48BE4D9D3D2F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A0B5BF1-B3B2-44D7-B699-48BE4D9D3D2F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A0B5BF1-B3B2-44D7-B699-48BE4D9D3D2F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A0B5BF1-B3B2-44D7-B699-48BE4D9D3D2F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2CF16296-BDF4-4543-A521-92C978459E76}
+	EndGlobalSection
+EndGlobal
